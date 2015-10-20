@@ -1,0 +1,12 @@
+body {
+	background-color:black;
+}
+
+#timeDisplay {
+	color:#006400;
+	font-size: 170px;
+	text-align: center;
+	position:relative;
+	top: 200px;
+	font-family: Amatic SC;
+}
